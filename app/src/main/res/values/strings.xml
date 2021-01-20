@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">projekt</string>
+
+    <string name="notatnik">Notatnik</string>
+    <string name="kalkulator">Kalkulator</string>
+    <string name="poziomica">Poziomica</string>
+    <string name="kalendarz">Kalendarz</string>
+    <string name="latarka">Latarka</string>
+    <string name="mirek">Mirek bud</string>
+
+    //Mirek budowlaniec
+    <string name="meterShort">m</string>
+    <string name="roomWidth">Szerokość pomieszczenia</string>
+    <string name="roomLenght">Długość pomieszczenia</string>
+    <string name="roomHeight">Wysokość pomieszczenia</string>
+    <string name="Painting">Malowanie</string>
+    <string name="currencyPerMeter">zł / m2</string>
+    <string name="zero">0</string>
+    <string name="Save">Zapisz</string>
+    <string name="count">Policz</string>
+</resources>
